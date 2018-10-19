@@ -1,0 +1,1 @@
+Copy Db to bin folder
