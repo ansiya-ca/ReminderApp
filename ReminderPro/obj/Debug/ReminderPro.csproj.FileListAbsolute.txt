@@ -1,0 +1,12 @@
+C:\Users\Muhammed.Saifal\ws\ReminderPro\ReminderPro\bin\Debug\ReminderPro.exe.config
+C:\Users\Muhammed.Saifal\ws\ReminderPro\ReminderPro\bin\Debug\ReminderPro.exe
+C:\Users\Muhammed.Saifal\ws\ReminderPro\ReminderPro\bin\Debug\ReminderPro.pdb
+C:\Users\Muhammed.Saifal\ws\ReminderPro\ReminderPro\obj\Debug\ReminderPro.ReminderPlus.resources
+C:\Users\Muhammed.Saifal\ws\ReminderPro\ReminderPro\obj\Debug\ReminderPro.Properties.Resources.resources
+C:\Users\Muhammed.Saifal\ws\ReminderPro\ReminderPro\obj\Debug\ReminderPro.csproj.GenerateResource.cache
+C:\Users\Muhammed.Saifal\ws\ReminderPro\ReminderPro\obj\Debug\ReminderPro.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed.Saifal\ws\ReminderPro\ReminderPro\obj\Debug\ReminderPro.exe
+C:\Users\Muhammed.Saifal\ws\ReminderPro\ReminderPro\obj\Debug\ReminderPro.pdb
+C:\Users\Muhammed.Saifal\ws\ReminderPro\ReminderPro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Muhammed.Saifal\ws\ReminderPro\ReminderPro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Muhammed.Saifal\ws\ReminderPro\ReminderPro\obj\Debug\ReminderPro.csproj.CopyComplete
